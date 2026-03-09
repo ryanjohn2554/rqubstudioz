@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DJ R QUB | R QUB STUDIOZ ENTERTAINMENT</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>DJ R QUB</h1>
+<p>Mziki Bila Limit</p>
+</header>
+
+<section class="hero">
+<img src="images/dj1.jpg" alt="DJ R QUB">
+</section>
+
+<section>
+<h2>About DJ R QUB</h2>
+
+<p>
+DJ R QUB is a Kenyan DJ and the founder of R QUB STUDIOZ ENTERTAINMENT.
+Known for energetic mixes and creative remixes, DJ R QUB blends genres
+including dancehall, soul, Afrobeat and club hits to create unforgettable
+music experiences.
+
+Based in Nairobi, Kenya, he has built a growing audience through his
+signature mix series "The Evening Call" and multiple themed DJ sessions.
+
+With the motto "Mziki Bila Limit" (Music Without Limits), DJ R QUB aims
+to take his sound to international stages while delivering powerful
+performances for clubs, festivals, private events and global audiences.
+
+Bookings are open worldwide.
+</p>
+
+</section>
+
+<section>
+
+<h2>Listen to My Mixes</h2>
+
+<iframe width="400" height="220"
+src="https://www.youtube.com/embed/IrDJR_ZWe04">
+</iframe>
+
+<iframe width="400" height="220"
+src="https://www.youtube.com/embed/QgR2_dWlTSw">
+</iframe>
+
+<iframe width="400" height="220"
+src="https://www.youtube.com/embed/u54Pwbra8lo">
+</iframe>
+
+<iframe width="400" height="220"
+src="https://www.youtube.com/embed/Utqod8d8nWg">
+</iframe>
+
+</section>
+
+<section>
+
+<h2>Follow DJ R QUB</h2>
+
+<p>
+<a href="https://www.facebook.com/share/1E5qXTWZxo/">Facebook</a><br>
+<a href="https://www.instagram.com/dj_r_qub">Instagram</a><br>
+<a href="https://www.tiktok.com/@rqubstudioz">TikTok</a><br>
+<a href="https://youtu.be/IrDJR_ZWe04">YouTube</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>Bookings</h2>
+
+<p>Email: rqubstudioz@gmail.com</p>
+<p>Phone / WhatsApp: +254 794878854</p>
+<p>Location: Nairobi, Kenya</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 R QUB STUDIOZ ENTERTAINMENT</p>
+
+</footer>
+
+</body>
+</html>
